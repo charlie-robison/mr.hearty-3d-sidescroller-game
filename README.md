@@ -4,6 +4,8 @@
 ### Movement
 Move Left and Right -> Use the arrow keys.
 Jump -> Press the space bar.
+Double Jump -> Press the space bar twice.
+Wall Jump -> Press the space bar after colliding with a wall.
 
 ### How to Defeat Enemies
 Jump on enemies to destroy them, however, watch out for the spiky enemies, they will damage you and cannot be destroyed!
